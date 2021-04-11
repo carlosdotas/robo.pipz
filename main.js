@@ -1,16 +1,16 @@
 main.js
 
-//010.281.334.56
-//005.387.021.25
+//10x.xxx.xxx.xxx
+//2xx.xxx.xxx.xxx
 
 //https://bo.pipz.com.br/qualificationPoints/transfer
 
-//cpf: 005.387.021-25
+//cpf: 2xx.xxx.xxx.xxx
 //points: 1
 
 //Teste 1
 /*
-let cfp = '005.387.021.25';
+let cfp = '2xx.xxx.xxx.xxx';
 let pontos = 8;
 
 for (var i = 0; i < 10; i++) {
@@ -20,19 +20,9 @@ for (var i = 0; i < 10; i++) {
 }
 */
 
-
-
-//CPF 1: 010.281.334.56 x
-//CPF 2: 005.387.021.25 x
-//CPF 3: 048.934.704.50 x
-//CPF 4: 457.643.524.87 + 
-//CPF 5: 087.861.074.02 x 
-//CPF 6: 302.904.224.34 <
-
-
 //Teste 2
-let cfp = '457.643.524.87';
-let pontos = '718450';
+let cfp = '2xx.xxx.xxx.xxx';
+let pontos = '2';
 var ini = 1;
 setInterval(function(){ 
 
